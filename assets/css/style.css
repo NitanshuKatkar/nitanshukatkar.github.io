@@ -161,9 +161,9 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   position: relative;
   color: rgba(255, 255, 255, 0.7);
-  font-size: 16px;
+  font-size: 20px;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 420;
 }
 
 .nav-menu a:before {
@@ -176,12 +176,12 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #18d26e;
   visibility: hidden;
   width: 0px;
-  transition: all 0.3s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
 }
 
 .nav-menu a:hover:before, .nav-menu li:hover > a:before, .nav-menu .active > a:before {
   visibility: visible;
-  width: 25px;
+  width: 45px;
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
