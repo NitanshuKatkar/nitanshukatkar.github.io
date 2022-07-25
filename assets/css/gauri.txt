@@ -1,0 +1,12 @@
+<html>
+<head> <title> www.gauri.com </title>
+</head>
+<body bgcolour= "blue">
+P ALIGN= "LEFT"> <FONT SIZE="30" COLOR="RED"> Hello, weelcome to my website.
+P ALIGN= "LEFT"> <FONT SIZE="30" COLOR="GREEN"> this is my first website.
+P ALIGN= "LEFT"> <FONT SIZE="30" COLOR="PURPLE"> I'm Gauri N. Katkar.
+img src="
+" HEIGHT="300" WIDTH="500" />
+
+</body>
+</html>
